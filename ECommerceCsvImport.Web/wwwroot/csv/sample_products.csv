@@ -1,0 +1,12 @@
+﻿sku,name,description,price,currency,category_name,stock,image_url,is_active,brand,warranty_months,model_number
+1001,Ноутбук Lenovo IdeaPad 3,Бюджетный ноутбук для работы и учебы,45990,RUB,Компьютеры,5,https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400,true,Lenovo,24,IdeaPad 3-15
+1002,Мышь Logitech M185,Беспроводная мышь с USB-приемником,1290,RUB,Периферия,10,https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400,true,Logitech,12,M185
+1003,Клавиатура A4Tech Bloody V3M,Механическая игровая клавиатура,3490,RUB,Периферия,7,https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400,false,A4Tech,24,V3M
+1004,Монитор Dell S2722QC,Игровой монитор 27 дюймов,29990,RUB,Компьютеры,3,https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400,true,Dell,24,S2722QC
+1005,Видеокарта NVIDIA GeForce RTX 3060,Графическая карта для игр и работы,24990,RUB,Компьютеры,4,https://images.unsplash.com/photo-1591488320449-011701bb6704?w=400,true,NVIDIA,36,RTX3060
+1006,Накопитель SSD Samsung 870 EVO 1TB,Внутренний твердотельный накопитель,5990,RUB,Компьютеры,12,https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400,true,Samsung,60,870EVO-1T
+1007,Webcam Logitech C920,Веб-камера Full HD,4990,RUB,Периферия,6,https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400,true,Logitech,24,C920
+1008,Аудиоинтерфейс Focusrite Scarlett 2i2,Для записи звука и подкастов,15990,RUB,Звук,2,https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=400,false,Focusrite,60,Scarlett2i2
+1009,Роутер TP-Link Archer AX55,Беспроводной роутер Wi-Fi 6,7490,RUB,Сетевое оборудование,8,https://images.unsplash.com/photo-1544922797-1538bbf417a4?w=400,true,TP-Link,36,AX55
+1010,Игровая гарнитура HyperX Cloud Stinger,Наушники с микрофоном,3290,RUB,Периферия,15,https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400,true,HyperX,12,CloudStinger
+1011,Блок питания Corsair CV550,,4990,RUB,Компьютеры,9,https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=400,true,Corsair,60,CV550
