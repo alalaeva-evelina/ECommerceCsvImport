@@ -185,7 +185,7 @@
                     <div class="product-img">
                         @if (!string.IsNullOrEmpty(product.ImageUrl))
                         {
-                            <img src="@product.ImageUrl" alt="@product.Name" onerror="this.style.display='none'; this.parentElement.innerHTML='Нет фото';" />
+                            <img src="@product.ImageUrl" alt="@product.Name" onerror="this.onerror=null; this.src='https://placehold.co/400x300/e0e0e0/333?text=Нет+фото';" />
                         }
                         else
                         {
