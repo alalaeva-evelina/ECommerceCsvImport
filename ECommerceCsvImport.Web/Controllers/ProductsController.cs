@@ -24,6 +24,7 @@ namespace ECommerceCsvImport.Web.Controllers
         public IActionResult Index(decimal? minPrice, decimal? maxPrice, string? category, string? brand)
         {
             var allProducts = _repository.GetAll();
+
             var viewModel = new ProductsIndexViewModel
             {
                 Categories = allProducts.Select(p => p.CategoryName).Distinct().OrderBy(c => c).ToList(),
